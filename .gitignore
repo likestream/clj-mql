@@ -4,4 +4,6 @@ pom.xml
 *.pom
 *.jar
 .clojure
-lib/*
+lib
+TAGS
+
