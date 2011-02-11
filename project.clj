@@ -1,5 +1,5 @@
 (defproject com.twinql.clojure/mql
-  "1.0.8-SNAPSHOT"
+  "1.0.8"
   :description "Freebase MQL client library."
 
   :dev-dependencies [[lein-search "0.3.4"]
