@@ -1,2 +1,9 @@
 *~
 .*.swp
+pom.xml
+*.pom
+*.jar
+.clojure
+lib
+TAGS
+
